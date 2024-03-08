@@ -1,1 +1,7 @@
 ini isi pesan untuk 1stBranch tolong dong dibaca
+
+DIBAWAH INI MERUPAKAN PESAN BRANCH KE 2
+
+ini adalah file pesan di dalam branch 2ndBranch
+pesan ini hanya untuk ditulis bukan dibaca
+
